@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 17178a2530a00bb4fb209b7bbc1f2fc2
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zombie3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 62
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 62
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: Zombie3_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
