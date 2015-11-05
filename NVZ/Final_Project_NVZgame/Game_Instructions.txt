@@ -1,0 +1,37 @@
+Ninjas VS Zombies version 0.3
+Authors: Sean Lantry
+	 Jerry Shin
+
+Game Instructions:
+
+	Zombies are Attacking!
+
+	You must choose your moves to attack and defend against the Zombies
+
+	Turn Phases:
+
+	-Discard
+	  *Choose cards that you want to remove from your hand before drawing more cards
+	-Draw Cards
+	  *Draw up to maximum hand size
+	-Attack
+	  *choose an attack combo consisting of attack and combo cards
+	-Defend
+	  *choose defense and combo cards to defend against zombie attacks
+
+	Controls:
+
+	-Hand
+	  *Click on cards in you hand to add them to the stack
+	-Stack
+	  *This is the list of cards you will use during this phase
+	  *click on clear to return those cards to your hand and choose
+		others to play from your hand
+	  *click done to confirm using cards on the stack for this phase
+	-Zombie Area
+	  *This displays the first five zombies in the zombie hord you
+		are fighting agains, zombies are added to this area during
+		the draw phase
+
+	Object of the game:
+	DON'T DIE!!!!!!!!!!!!!!
